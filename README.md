@@ -1,6 +1,6 @@
 Disable ASLR
 ===
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a2f40f4effd4488fb57797f71f8289c6)](https://www.codacy.com/gh/Scene-Collective/ps4-disable-aslr/dashboard)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/)](https://www.codacy.com/gh/Scene-Collective/ps4-disable-aslr/dashboard)
 
 ## Synopsis
 Disables the ASLR (Address space layout randomization) to make working with memory easier/repeatable.
