@@ -6,6 +6,7 @@ int _main(struct thread *td) {
   initKernel();
   initLibc();
 
+  jailbreak();
   disable_aslr();
 
   initSysUtil();
