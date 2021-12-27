@@ -7,6 +7,7 @@
   "description": {
     "default": "Disables the ASLR (Address space layout randomization) to make working with memory easier/repeatable.",
     "en": "Disables the ASLR (Address space layout randomization) to make working with memory easier/repeatable."
+    "pt-br": "Desativa o ASLR (randomização do layout para o espaço de endereço) para deixar o trabalho com a memória mais fácil/repetível"
   },
   "author": "",
   "url": "https://github.com/Scene-Collective/ps4-disable-aslr",
